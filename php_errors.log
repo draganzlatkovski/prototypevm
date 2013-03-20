@@ -1,0 +1,202 @@
+[13-Jun-2012 13:02:58 UTC] PHP Warning:  copy(/var/www/html/test.html): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 101
+[13-Jun-2012 13:02:58 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432? in /var/www/html/prototype/upload.php on line 119
+[13-Jun-2012 13:02:58 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 122
+[13-Jun-2012 13:02:58 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 135
+[13-Jun-2012 13:02:58 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 140
+[13-Jun-2012 13:10:39 UTC] PHP Warning:  unlink(/tmp/storage-disk.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[13-Jun-2012 13:10:44 UTC] PHP Warning:  unlink(/tmp/inflow.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[13-Jun-2012 13:10:54 UTC] PHP Warning:  unlink(/tmp/demand.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[13-Jun-2012 13:11:02 UTC] PHP Warning:  unlink(/tmp/flood.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[13-Jun-2012 13:11:09 UTC] PHP Warning:  unlink(/tmp/recreation.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[13-Jun-2012 13:11:39 UTC] PHP Warning:  unlink(/tmp/inflow.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[25-Jun-2012 12:41:55 UTC] PHP Warning:  unlink(/tmp/): Is a directory in /var/www/html/prototype/upload.php on line 133
+[25-Jun-2012 12:42:01 UTC] PHP Warning:  unlink(/tmp/): Is a directory in /var/www/html/prototype/upload.php on line 133
+[25-Jun-2012 12:42:04 UTC] PHP Warning:  unlink(/tmp/): Is a directory in /var/www/html/prototype/upload.php on line 133
+[25-Jun-2012 12:42:08 UTC] PHP Warning:  unlink(/tmp/): Is a directory in /var/www/html/prototype/upload.php on line 133
+[25-Jun-2012 12:42:12 UTC] PHP Warning:  unlink(/tmp/): Is a directory in /var/www/html/prototype/upload.php on line 133
+[25-Jun-2012 12:42:32 UTC] PHP Warning:  copy(): Filename cannot be empty in /var/www/html/prototype/upload_inflow_table.php on line 69
+[25-Jun-2012 12:42:32 UTC] PHP Warning:  pg_query(): Query failed: ERROR:  could not open file "/var/www/html/prototype\\uploads_csv\\" for reading: No such file or directory in /var/www/html/prototype/upload_inflow_table.php on line 109
+[04-Jul-2012 11:33:07 UTC] PHP Warning:  unlink(/tmp/storage-disk.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[04-Jul-2012 11:33:13 UTC] PHP Warning:  unlink(/tmp/inflow.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[04-Jul-2012 11:33:20 UTC] PHP Warning:  unlink(/tmp/demand.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[04-Jul-2012 11:33:25 UTC] PHP Warning:  unlink(/tmp/flood.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[04-Jul-2012 11:33:31 UTC] PHP Warning:  unlink(/tmp/recreation.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[08-Jul-2012 22:25:49 UTC] PHP Warning:  unlink(/tmp/storage-disk.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[08-Jul-2012 22:26:04 UTC] PHP Warning:  unlink(/tmp/inflow.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[08-Jul-2012 22:26:10 UTC] PHP Warning:  unlink(/tmp/demand.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[08-Jul-2012 22:26:17 UTC] PHP Warning:  unlink(/tmp/flood.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[08-Jul-2012 22:26:22 UTC] PHP Warning:  unlink(/tmp/recreation.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:40:39 UTC] PHP Warning:  unlink(/tmp/storage-disk.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:41:31 UTC] PHP Warning:  unlink(/tmp/storage-disk.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:41:36 UTC] PHP Warning:  unlink(/tmp/inflow.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:41:42 UTC] PHP Warning:  unlink(/tmp/demand.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:41:46 UTC] PHP Warning:  unlink(/tmp/flood.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:41:52 UTC] PHP Warning:  unlink(/tmp/recreation.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:42:46 UTC] PHP Warning:  unlink(/tmp/storage-disk.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:42:50 UTC] PHP Warning:  unlink(/tmp/inflow.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:42:55 UTC] PHP Warning:  unlink(/tmp/demand.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:43:00 UTC] PHP Warning:  unlink(/tmp/flood.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[11-Jul-2012 12:43:05 UTC] PHP Warning:  unlink(/tmp/recreation.csv): No such file or directory in /var/www/html/prototype/upload.php on line 133
+[12-Jul-2012 13:02:26 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:02:26 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:02:26 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:02:26 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:02:26 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:02:26 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:03:08 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:03:08 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:03:08 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:03:08 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:03:08 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:03:08 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/uploadatributes_inflows.php on line 11
+[12-Jul-2012 13:05:26 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:05:26 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:05:26 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:05:26 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:05:26 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 105
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 109
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 131
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 135
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 158
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 162
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 183
+[12-Jul-2012 13:05:26 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 187
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[12-Jul-2012 13:07:11 UTC] PHP Warning:  copy(/storage-disk.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:11 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:11 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:11 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[12-Jul-2012 13:07:11 UTC] PHP Warning:  file_get_contents(/var/www/html/prototype//storage-disk.csv): failed to open stream: No such file or directory in /var/www/html/prototype/upload.php on line 122
+[12-Jul-2012 13:07:11 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[12-Jul-2012 13:07:11 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[12-Jul-2012 13:07:17 UTC] PHP Warning:  copy(/inflow.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:17 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:17 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:17 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[12-Jul-2012 13:07:17 UTC] PHP Warning:  file_get_contents(/var/www/html/prototype//inflow.csv): failed to open stream: No such file or directory in /var/www/html/prototype/upload.php on line 122
+[12-Jul-2012 13:07:17 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[12-Jul-2012 13:07:17 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[12-Jul-2012 13:07:36 UTC] PHP Warning:  copy(/storage-disk.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:36 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:36 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[12-Jul-2012 13:07:36 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[12-Jul-2012 13:07:36 UTC] PHP Warning:  file_get_contents(/var/www/html/prototype//storage-disk.csv): failed to open stream: No such file or directory in /var/www/html/prototype/upload.php on line 122
+[12-Jul-2012 13:07:36 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[12-Jul-2012 13:07:36 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[12-Jul-2012 13:19:48 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:19:48 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:19:48 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:19:48 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:19:48 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 105
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 109
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 131
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 135
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 158
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 162
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 183
+[12-Jul-2012 13:19:49 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 187
+[12-Jul-2012 13:20:27 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:20:27 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:20:27 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:20:27 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:20:27 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/json-1.php on line 102
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 105
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 109
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 131
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 135
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 158
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 162
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_query(): No PostgreSQL link opened yet in /var/www/html/prototype/json-1.php on line 183
+[12-Jul-2012 13:20:27 UTC] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/json-1.php on line 187
+[17-Aug-2012 12:02:31 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[17-Aug-2012 12:02:31 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[17-Aug-2012 12:02:31 UTC] PHP Warning:  copy(/storage-disk.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[17-Aug-2012 12:02:36 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[17-Aug-2012 12:02:36 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[17-Aug-2012 12:02:36 UTC] PHP Warning:  copy(/storage-disk.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[17-Aug-2012 12:02:41 UTC] PHP Warning:  copy(/storage-disk.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:41 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:41 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:41 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[17-Aug-2012 12:02:41 UTC] PHP Warning:  file_get_contents(/var/www/html/prototype//storage-disk.csv): failed to open stream: No such file or directory in /var/www/html/prototype/upload.php on line 122
+[17-Aug-2012 12:02:41 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[17-Aug-2012 12:02:41 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[17-Aug-2012 12:02:53 UTC] PHP Warning:  copy(/inflow.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:53 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:53 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:02:53 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[17-Aug-2012 12:02:53 UTC] PHP Warning:  file_get_contents(/var/www/html/prototype//inflow.csv): failed to open stream: No such file or directory in /var/www/html/prototype/upload.php on line 122
+[17-Aug-2012 12:02:53 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[17-Aug-2012 12:02:53 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[17-Aug-2012 12:03:01 UTC] PHP Warning:  copy(/demand.csv): failed to open stream: Permission denied in /var/www/html/prototype/upload.php on line 92
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:03:01 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:03:01 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[17-Aug-2012 12:03:01 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[17-Aug-2012 12:03:01 UTC] PHP Warning:  file_get_contents(/var/www/html/prototype//demand.csv): failed to open stream: No such file or directory in /var/www/html/prototype/upload.php on line 122
+[17-Aug-2012 12:03:01 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[17-Aug-2012 12:03:01 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:52 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:52 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:52 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[27-Aug-2012 10:37:52 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[27-Aug-2012 10:37:52 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 19
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: u_folder in /var/www/html/prototype/upload.php on line 25
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: hostName in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: port in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: databaseName in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: username_db in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:54 UTC] PHP Notice:  Undefined variable: password_db in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:54 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name "port=" to address: Name or service not known in /var/www/html/prototype/upload.php on line 108
+[27-Aug-2012 10:37:54 UTC] PHP Warning:  pg_query() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 111
+[27-Aug-2012 10:37:54 UTC] PHP Warning:  pg_copy_from() expects parameter 1 to be resource, boolean given in /var/www/html/prototype/upload.php on line 124
+[27-Aug-2012 10:37:54 UTC] PHP Warning:  pg_last_error(): No PostgreSQL link opened yet in /var/www/html/prototype/upload.php on line 129
+[05-Sep-2012 14:50:06 UTC] PHP Warning:  copy(): Filename cannot be empty in /var/www/html/prototype/upload_land_table.php on line 69
