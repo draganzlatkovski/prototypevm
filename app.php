@@ -774,6 +774,7 @@ function PopUpLogout()
 <body onLoad="init();remakeToUpdateButtons();">
 	<div class="headtitle">    
    <input type = 'button'  align="right" value = ' How to use the application    ' onClick='PopUpW()'>
+   <a href="addUsers.php"><input type='button' align="right" value='Add Users'></input></a>
    </span>
    <input type = 'button' class="olLogout" onClick='PopUpLogout()' value = ' Logout    '  align="left">
    <h2 id="title" style="margin-top:-15px;">
@@ -823,7 +824,9 @@ function PopUpLogout()
 
     </div>
     <div id="form-id2">
-
+	<?php
+	include('formUploadCSV.php');	
+	?>
     </div>
 <br/>        
 <p><span id="info"></span></p>
